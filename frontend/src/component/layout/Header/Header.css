@@ -1,0 +1,24 @@
+.speedDial {
+  position: fixed;
+  right: 3vmax;
+  top: 3vmax;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
+
+.linktag {
+  margin-left: 15px;
+  color: white;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.linktag:hover {
+  color: aqua;
+  font-weight: 500;
+  font-size: 25px;
+}
